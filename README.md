@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakawiryakusuma&show_icons=true&locale=en&layout=compact" height="150px" />
+    <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakawiryakusuma&show_icons=true&locale=en&layout=compact" height="150px" color="black" />
   </a>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=rakawiryakusuma&show_icons=true&locale=en" height="150px" alt="GitHub Streak"/>
