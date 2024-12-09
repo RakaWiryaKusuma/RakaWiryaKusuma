@@ -1,5 +1,5 @@
 ![logo](https://github.com/RakaWiryaKusuma/RakaWiryaKusuma/blob/main/channels4_banner.jpg)
-<h1 align="center">Hi 👋, I'm Raka Wirya Kusuma ezzz</h1>
+<h1 align="center">Hi 👋, I'm Raka Wirya Kusuma</h1>
 <h3 align="center">Into "Fullstack Developer, Software Engineer, Web Desainer"</h3>
 
 <h3 align="left">Connect with me:</h3>
