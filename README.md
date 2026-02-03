@@ -1,6 +1,7 @@
 ![logo](https://github.com/RakaWiryaKusuma/RakaWiryaKusuma/blob/main/channels4_banner.jpg)
 <h1 align="center">Hi There 👋, I'm Raka Wirya Kusuma</h1>
 <h3 align="center">Into Frontend Developer & Cyber Security</h3>
+<h3 align="center">Aku suka Vibe Coding</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
